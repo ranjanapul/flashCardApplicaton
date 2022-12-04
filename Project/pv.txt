@@ -1,0 +1,12 @@
+pv
+
+Category,Math
+Card,3,How you doing?,Great,easy
+Card,3,Are you okay?,Yes,easy
+Card,3,How are you?,Fine,easy
+Card,3,Are you okay?,Yes,easy
+Category,Physics
+Card,3,a,b,easy
+Card,3,How are you,good,easy
+Category,Chem
+Card,3,Are you okay?,Yes,easy
